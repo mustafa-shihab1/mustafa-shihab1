@@ -1,7 +1,7 @@
 # Hi there 👋
-#### I'm Mustafa, a Mobile App Developer
+#### I'm Mustafa, a Mobile App Developer - Flutter
 ## 💫 About Me:
-🔭 I’m currently training as a flutter developer<br>👯 I’m looking to collaborate on working with team<br>🌱 I’m currently learning to build apps using clean architecture<br>⚡ Fact, this too shall pass
+🔭 I’m currently training as a flutter developer<br>👯 I’m looking to collaborate on real and large scale projects<br>🌱 I’m currently learning to build apps using clean architecture<br>⚡ Fact, this too shall pass
 
 
 ## 💻 Tech Stack:
