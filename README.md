@@ -1,20 +1,20 @@
 # Hi there 👋
-##### Focusing on what happens behind the screens — where Flutter craftsmanship meets Cybersecurity precision.
+#### Focusing on what happens behind the screens — where Flutter craftsmanship meets Cybersecurity precision.
 ## 💫 About Me:
 I’m Mustafa, a Flutter Developer with a background in Cybersecurity, passionate about building experience building cleansecure, scalable, and high-performance mobile apps that combine elegant design with solid technical foundations.
 
 ⚡ Technical Skills:
-  ✔ Flutter & Dart (Clean Architecture)
-  ✔ Mobile App Development (Android & iOS)
-  ✔ Firebase & RESTful APIs
-  ✔ Git/GitHub & CI/CD Basics
-  ✔ Cybersecurity Fundamentals
+<br>  ✔ Flutter & Dart (Clean Architecture)
+<br> ✔ Mobile App Development (Android & iOS)
+<br>  ✔ Firebase & RESTful APIs
+<br>  ✔ Git/GitHub & CI/CD Basics
+<br>  ✔ Cybersecurity Fundamentals
 
 🌱 Soft Skills:
-  ✔ Clear Communication
-  ✔ Time Management
-  ✔ Team Collaboration
-  ✔ Continuous Learning Mindset
+<br>  ✔ Clear Communication
+<br>  ✔ Time Management
+<br>  ✔ Team Collaboration
+<br>  ✔ Continuous Learning Mindset
 
 Ready to build secure, scalable apps that make an impact? Let’s connect.
 
