@@ -1,6 +1,6 @@
 # Hi there 👋
-#### Focusing on what happens behind the screens — where Flutter craftsmanship meets Cybersecurity precision.
-## 💫 About Me:
+#### Focusing on what happens behind the scenes — where Flutter craftsmanship meets engineering precision.
+
 I’m Mustafa, a Flutter Developer with a background in Cybersecurity, passionate about building experience building cleansecure, scalable, and high-performance mobile apps that combine elegant design with solid technical foundations.
 
 ⚡ Technical Skills:
